@@ -1,6 +1,8 @@
 # VenneChecker (V1NNEBOARD)
 
-A BepInEx mod for Gorilla Tag — the most comprehensive player mod checker available. Features a physical 3D hand menu with laser pointer scanner and 25 detection methods covering Harmony patches, loaded assemblies, network behavior, physics anomalies, and per-player rig validation.
+> **This mod was made almost entirely by AI (Claude).** It has a lot of bugs, can be very glitchy, and **will give false positives on mod detection.** Do NOT use scan results as definitive proof that someone is cheating. This is an experimental/educational project — use at your own risk.
+
+A BepInEx mod for Gorilla Tag — a player mod checker with a physical 3D hand menu, laser pointer scanner, and 25 detection methods covering Harmony patches, loaded assemblies, network behavior, physics anomalies, and per-player rig validation.
 
 ## Features
 
