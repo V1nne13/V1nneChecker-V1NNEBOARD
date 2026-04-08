@@ -1,0 +1,22 @@
+## .NET / C#
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.user
+*.suo
+*.vs/
+
+## IDE
+.idea/
+.vscode/
+*.DotSettings
+
+## OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+## BepInEx output (built DLL goes to plugins folder)
